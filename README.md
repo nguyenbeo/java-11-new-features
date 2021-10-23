@@ -4,16 +4,19 @@ Some simple tries to experiment the new features of Java 11.
 # Test cases
 ## Test case 1
 
+## Java 11 developer visible features
+* JEP 323: Local-variable in Lambda by using **var**
+* JEP 330: Run java with single **java** command
+
 ## Test case 100
+
+## Test case 202
 
 ## Technologies
 * Java 11
 * Gradle
 * JUnit 5
 
-## Java 11 developer visible features
-* JEP 323: Local-variable in Lambda by using **var**
-* JEP 330: Run java with single **java** command 
 
 `java -classpath /home/foo/java Hello.java Bonjour`
 * JEP 321: Http Client Standard supports HTTP/1.1 or 2 and even natively WebSockets
