@@ -1,6 +1,9 @@
 # java-11-new-features
 Some simple tries to experiment the new features of Java 11.
 
+# Test cases
+## Test case 1
+
 ## Technologies
 * Java 11
 * Gradle
